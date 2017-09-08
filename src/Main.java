@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        Pets bentley = new Pets ("black and white", "Bentley", "Boston Terrier", "male");
+        Dog bentley = new Dog ("black and white", "Bentley", "Boston Terrier", "male");
         Pets summer = new Pets("gold", "Summer", "Collie", "female");
         Pets cooper = new Pets("brown", "Cooper", "Pug", "male");
 
